@@ -133,7 +133,7 @@ flowchart TD
 
 ## 📫 Contact
 
-- 📧 smartline.adm@gmail.com
+- 📧 changhoon.yoon.eng@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/changhoon-yoon-893199243)
 - 🌐 Based in Seoul, South Korea
 
