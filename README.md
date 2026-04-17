@@ -47,7 +47,7 @@ flowchart LR
     Me([👨‍💻 Firmware])
     Me --> K[Matrix Keypad HMI<br/>bare-metal]
     Me --> S[SAP-100 Sensor Family<br/>FreeRTOS]
-    Me --> L[MT-100<br/>LoRa Node]
+    Me --> L[Bolus<br/>LoRa Node]
     Me --> C[YNU Control Box<br/>LTE+MQTT+OTA]
     Me --> I[YNU Ionizer<br/>Air Quality]
 
@@ -127,7 +127,7 @@ flowchart TD
 - 🎹 **stm32-bare-metal-keypad-demo** — Deterministic matrix keypad scanning (variant of industrial HMI) · _coming soon_
 - 🧪 **stm32-freertos-sensor-modbus-demo** — FreeRTOS tasks + Modbus RTU slave (SAP-100 architecture pattern) · _coming soon_
 - ☁️ **stm32-ota-bootloader-demo** — Dual-slot SPI Flash staging bootloader · _coming soon_
-- 📡 **stm32-lora-lowpower-demo** — LoRa + low-power sleep (MT-100 pattern) · _coming soon_
+- 📡 **stm32-lora-lowpower-demo** — LoRa + low-power sleep (Bolus pattern) · _coming soon_
 
 ---
 
