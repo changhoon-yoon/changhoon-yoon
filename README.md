@@ -138,7 +138,7 @@ flowchart TD
 - 🌐 Based in Seoul, South Korea
 
 <p align="center">
-  <i>Open to roles and collaboration in commercial vehicle / construction equipment / industrial IoT firmware.</i>
+  <i>Open to collaboration in commercial vehicle / construction equipment / industrial IoT firmware.</i>
 </p>
 
 <!--
